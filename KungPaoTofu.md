@@ -52,8 +52,10 @@ Stir in half the kung pao sauce, cook until sauce thickens
 Transfer kung pao tofu into a bowl, garnish with scallion greens, and enjoy
 ```
 
-## Nutrition
+## Nutrition Information
 
 | Calories | Carbohydrates | Fiber | Fats | Protein |
 |----------|---------------|-------|------|---------|
-| 511 kcal | 45 g          | 18 g  | 70 g | 51 g    |
+| 672 kcal | 43 g          | 9 g   | 47 g | 33 g    |
+
+(per serving)
