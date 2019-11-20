@@ -33,14 +33,14 @@ Servings:   4 to 5
 Rinse 1 cup lentils in warm water and let soak 5 minutes (carefully remove any plant matter or rocks)
 Peel and slice carrots into 1/4 inch sections, halve or quarter larger rounds
 On a baking sheet or in a pan roast walnuts until fragrant
-Peel and mince shallot, then whisk together shallot, vinegar, oilive oil and mustard
+Peel and mince shallot, then whisk together shallot, vinegar, olive oil and mustard
 Season dressing with pepper to taste
-In a large pot or dutch oven bring 1 cup stock and 1 cup water and salt to boil 
-with bay leaf, whole garlic cloves, and sprigs of thyme
+In a large pot or dutch oven bring 1 cup stock, 1 cup water and salt to boil with whole garlic cloves, 
+bay leaf, and sprigs of thyme
 Once boiling add in lentils and carrots, reduce to simmer, cover, and cook for 10 minutes 
 or until lentils are soft when tasted
 Drain lentils in a colander, removing bay leaf, thyme stems, and garlic
-Combine and mix lentils, roasted walnuts, goat cheese, and dressing in a large bowl
+Combine lentils, roasted walnuts, goat cheese, and dressing in a large bowl
 Serve lentil salad in a bowl warm or refrigerated
 ```
 
