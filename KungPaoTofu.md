@@ -10,7 +10,7 @@ Serves 2
 ## Ingredients
 
 * 16 oz tofu (extra firm)
-* 1/2 cup peanuts
+* ½ cup peanuts
 * **1 head broccoli**
 * **1 bell pepper** (any color works)
 * **1 medium carrot**
