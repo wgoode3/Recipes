@@ -1,5 +1,7 @@
 # Kung Pao Tofu 
 
+<img src="https://raw.githubusercontent.com/wgoode3/Recipes/master/img/kpt.jpg" alt="kung pao tofu" />
+
 ```
 Difficulty: Easy
 Prep time:  30 minutes
