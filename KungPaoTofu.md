@@ -8,12 +8,6 @@ Total time: 50 minutes
 Servings:   2
 ```
 
-## Nutrition
-
-| Calories | Carbohydrates | Fiber | Fats | Protein |
-|----------|---------------|-------|------|---------|
-| 511 kcal | 45 g          | 18 g  | 70 g | 51 g    |
-
 ## Ingredients
 
 * 16 oz tofu (extra firm)
@@ -57,3 +51,9 @@ Add back fried tofu and half of the scallion whites
 Stir in half the kung pao sauce, cook until sauce thickens
 Transfer kung pao tofu into a bowl, garnish with scallion greens, and enjoy
 ```
+
+## Nutrition
+
+| Calories | Carbohydrates | Fiber | Fats | Protein |
+|----------|---------------|-------|------|---------|
+| 511 kcal | 45 g          | 18 g  | 70 g | 51 g    |
