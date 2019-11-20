@@ -1,13 +1,9 @@
 # Kung Pao Tofu 
 
-Difficulty: Easy
-
-Prep time: 30 minutes
-
-Cook time: 10 minutes (per batch)
-
-Total time: 50 minutes
-
+Difficulty: Easy<br>
+Prep time: 30 minutes<br>
+Cook time: 10 minutes (per batch)<br>
+Total time: 50 minutes<br>
 Serves 2
 
 ## Nutrition
