@@ -13,6 +13,7 @@ Servings:   ???
 ## Ingredients
 
 * 1 lb. chicken breast
+* 3 corn tortillas
 * 2 slices bacon
 * ¼ cup shredded jack cheese
 * 9 cherry tomatoes quartered
@@ -36,8 +37,8 @@ Cover with 1 can red enchilada sauce, lime zest and lime juice.
 Add in 1 chipotle minced, and about 1 tbsp of the adobo sauce as well.
 Place in oven at 325 for 1 - 1.5 hours. // TODO: find proper time for this
 Meanwhile, cook 2 slices bacon and chop into bits.
-Wash and slice 9 cherry tomatoes into quarters.
-Wash and slice 2 leaves romaine lettuce into thin 1/4 inch strips widthwise.
+Wash then slice 9 cherry tomatoes into quarters.
+Wash then slice 2 leaves romaine lettuce into thin 1/4 inch strips (widthwise).
 ... // TODO: describe more of the recipe
 ```
 
