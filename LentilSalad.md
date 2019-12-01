@@ -48,6 +48,6 @@ Serve lentil salad in a bowl warm or refrigerated
 
 | Calories | Carbohydrates | Fiber | Fats | Protein |
 |----------|---------------|-------|------|---------|
-| ??? kcal | ?? g          | ?? g  | ?? g | ?? g    |
+| 470 kcal | 17 g          | 6 g   | 39 g | 14 g    |
 
 (per serving)
